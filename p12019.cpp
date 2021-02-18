@@ -20,5 +20,4 @@ int main(){
         cout<<week[daysum] <<endl;
     }
     return 0;
-    
 }
